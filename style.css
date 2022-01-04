@@ -1,0 +1,28 @@
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;    
+  }
+
+  .center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .div {
+      float: left;
+  }
+
+  .links-color {
+    color: #0000EE;
+  }
+
+  .fs13 {
+    font-size: 13px;
+  }
+
+  .sub-button {
+    background-color: -internal-light-dark(rgb(239, 239, 239), rgb(59, 59, 59));
+    color: -internal-light-dark(black, white);
+    padding: 1px 6px;   
+  }
